@@ -26,7 +26,7 @@ swift 轮播器
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'nieyuchina@163.com' => 'nieyuchina@gmail.com' }
-  s.source           = { :git => 'https://github.com/NYCarousel.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/nieyu/NYCarousel.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
   s.swift_version = '5.0'
   s.ios.deployment_target = '9.0'
