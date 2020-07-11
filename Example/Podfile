@@ -2,7 +2,8 @@ use_frameworks!
 
 target 'NYCarousel_Example' do
   pod 'NYCarousel', :path => '../'
-
+  pod 'Reveal-SDK', '21', :configurations => ['Debug']
+  
   target 'NYCarousel_Tests' do
     inherit! :search_paths
 
